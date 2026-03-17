@@ -6,7 +6,7 @@ at the Quantum Materials (QM2) Beamline, CHESS · Cornell University.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Automated generation of job submission scripts  
 - Browse NFS directories and select sample folders
