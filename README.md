@@ -29,7 +29,7 @@ at the Quantum Materials (QM2) Beamline, CHESS · Cornell University.
 - Python 3.8+
 - Flask
 
-#How to use the script?
+## How to use the script?
 ```bash
 - ssh <username>@lnx201.classe.cornell.edu
 - source /nfs/chess/sw/qm2-data-analysis/bin/activate
