@@ -22,7 +22,6 @@ at the Quantum Materials (QM2) Beamline, CHESS · Cornell University.
 - Python 3.8+
 - Flask
 ```bash
-pip install flask
 ```
 
 ## Usage
